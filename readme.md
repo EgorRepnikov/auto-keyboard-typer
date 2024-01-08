@@ -1,5 +1,7 @@
 # Auto Keyboard Typer
 
+Emulates smooth input of prepared text.
+
 # Installation
 ```bash
 $ npm i -g auto-keyboard-typer
@@ -7,7 +9,7 @@ $ npm i -g auto-keyboard-typer
 
 # Usage
 ```bash
-$ auto-keyboard-typer -f path/to/file.txt -d 3500 -o 200 -r '  '
+$ typist -f path/to/file.txt -d 3500 -o 200 -r '  '
 ```
 
 ```
