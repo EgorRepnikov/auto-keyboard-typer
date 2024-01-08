@@ -1,0 +1,26 @@
+{
+  "name": "auto-keyboard-typer",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EgorRepnikov/auto-keyboard-typer.git"
+  },
+  "author": "Egor Repnikov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EgorRepnikov/auto-keyboard-typer/issues"
+  },
+  "homepage": "https://github.com/EgorRepnikov/auto-keyboard-typer#readme",
+  "dependencies": {
+    "@nut-tree/nut-js": "3.1.2"
+  },
+  "bin": {
+    "auto-keyboard-typer": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
