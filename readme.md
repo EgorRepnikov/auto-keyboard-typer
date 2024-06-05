@@ -9,7 +9,8 @@ $ npm i -g auto-keyboard-typer
 
 # Usage
 ```bash
-$ typist -f path/to/file.txt -d 3500 -o 200 -r '  '
+$ typist -f path/to/file.txt -d 3500 -o 200 -r '  ' # use file
+$ typist -c -d 3500 -o 200 -r '  ' # use clipboard
 ```
 
 ```
