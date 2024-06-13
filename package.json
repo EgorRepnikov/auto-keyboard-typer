@@ -1,6 +1,6 @@
 {
   "name": "auto-keyboard-typer",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "description": "Emulates smooth input of prepared text",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/EgorRepnikov/auto-keyboard-typer#readme",
   "dependencies": {
-    "@nut-tree-fork/nut-js": "4.2.1"
+    "@kirillvakalov/nut-tree__nut-js": "4.2.1-2"
   },
   "bin": {
     "typist": "./bin/typist.js"
