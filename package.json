@@ -1,6 +1,6 @@
 {
   "name": "auto-keyboard-typer",
-  "version": "0.2.7",
+  "version": "0.2.8",
   "description": "Emulates smooth input of prepared text",
   "main": "index.js",
   "scripts": {
